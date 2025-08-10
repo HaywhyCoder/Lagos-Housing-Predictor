@@ -132,7 +132,7 @@ Trainees can extend this project by:
 - **Streamlit**: Web application framework
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computing
-- **Scikit-learn**: Machine learning library (via joblib)
+- **Scikit-learn**: Machine learning library
 - **Jupyter**: Interactive development environment
 
 ## 📝 Notes for Trainees
