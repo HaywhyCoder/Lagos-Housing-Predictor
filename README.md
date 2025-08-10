@@ -54,7 +54,7 @@ Lagos-Housing-Predictor/
 
 1. **Clone/Download the project**
    ```bash
-   # Clone from GitHub (replace with actual repository URL)
+   # Clone from GitHub
    git clone https://github.com/HaywhyCoder/Lagos-Housing-Predictor.git
    cd lagos-housing-predictor
    ```
