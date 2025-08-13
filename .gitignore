@@ -1,3 +1,5 @@
 ./ipynb_checkpoints/
 .vscode/
 skillslab/
+fastapi_app/
+__pycache__/
