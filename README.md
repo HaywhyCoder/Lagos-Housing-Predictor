@@ -2,9 +2,13 @@
 
 A machine learning practice project designed for the **NSBE UNILAG Machine Learning Skills Lab Training Program** to teach beginner machine learning concepts.
 
+## 🌐 Live Demo
+
+**🚀 Try the app now:** [Lagos Housing Predictor - Live Demo](https://lagos-housing-predictor.streamlit.app/)
+
 ## 📋 Project Overview
 
-This project demonstrates end-to-end machine learning workflow by predicting housing prices in Lagos, Nigeria. It serves as a hands-on learning tool for trainees to understand data science concepts, model building, and web application deployment using Streamlit.
+This project demonstrates end-to-end machine learning workflow by predicting housing prices in Lagos, Nigeria. It serves as a hands-on learning tool for trainees to understand data science concepts...
 
 ## 🎯 Learning Objectives
 
@@ -82,7 +86,7 @@ Lagos-Housing-Predictor/
 
 ## 🖥️ Usage
 
-1. Open the web application in your browser (typically at `http://localhost:8501`)
+1. Open the web application in your browser (typically at `http://localhost:8501`) or use the [live demo](https://lagos-housing-predictor.streamlit.app/)
 2. Use the sliders to set house specifications:
    - Number of bedrooms (1-10)
    - Number of bathrooms (1-10)
@@ -132,7 +136,7 @@ Trainees can extend this project by:
 - **Streamlit**: Web application framework
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical computing
-- **Scikit-learn**: Machine learning library (via joblib)
+- **Scikit-learn**: Machine learning library
 - **Jupyter**: Interactive development environment
 
 ## 📝 Notes for Trainees
